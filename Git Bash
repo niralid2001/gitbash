@@ -1,0 +1,59 @@
+Git Bash (Download)
+---------
+google -> git bash -> window -> standard -> pc jetla bit te download -> run as administer -> next -> last ma checkbox unchecked.
+____________________________________________________________________________________
+
+Make github Profile
+--------------------
+chrom -> github.com 
+password -> capital,small,digit,special symbol.
+____________________________________________________________________________________
+
+open git bash
+--------------
+cd..
+cd..
+cd d: (je drive ma folder hoy te)
+	d drive ma avi jase
+cd folder name (ex: cd 190802020-asp)
+git clone link (github repositery link past)
+	(folder bani gayu hse drive ma tya data paste krva)
+cd foldername (cd 190802020-asp)
+	(main ma avi jase)
+git status 
+git add .
+git status
+git commit -m "first commit"
+git config --global "user email"
+	(git ma je email address hoy te)
+git config --global "username"
+	(git profile name - Nirali Dadhaniya)
+git status 
+git push origin main
+____________________________________________________________________________________
+
+next change (new change in this pc)
+------------------------------------
+cd..
+cd..
+cd d:
+git status 
+git add . 
+git status 
+git commit -m"commit"
+git status
+git push origin main
+____________________________________________________________________________________
+
+pc change
+----------
+cd..
+cd..
+cd d:
+git clone link
+git status 
+git add . 
+git status
+git commit -m"commit"
+git status
+git push origin main
